@@ -165,7 +165,7 @@ section {
 
 /*Hover Effect */
 .hero-form button:hover {
-  background-color: var(--tertiary-color)b2;
+  background-color: var(--tertiary-color);
 }
 
 .hero-cta {
